@@ -1,4 +1,4 @@
-# MP3 Offline Music Player (JavaFX)
+# Radiant MP3 Offline Music Player (JavaFX)
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)
 ![JavaFX](https://img.shields.io/badge/JavaFX-UI-blue?style=for-the-badge&logo=java)
@@ -40,7 +40,7 @@ Go to the **[Releases](../../releases)** tab and download the latest `.deb` pack
 3. Search for "MP3Player" in your applications menu and enjoy!
 
 *For other operating systems, download the `.jar` file from the Releases and run it via terminal:*
-`java -jar radiant-1.0.0.jar`
+`java -jar radiant-1.0.jar`
 
 ### Option 2: Build from Source (For developers)
 If you want to compile the project yourself, you will need **Java 17+** and **Maven** installed.
